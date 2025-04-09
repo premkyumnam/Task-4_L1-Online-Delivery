@@ -4,11 +4,10 @@
   <h1> Second Task of Level 1</h1>
     
   <h2>Projec Review: </h2>
-In this project, I analyzed a restaurant dataset to identify food trends. The goal of this second task was to:
+In this project, I analyzed a restaurant dataset to identify food trends. The goal of this 4th task is to:
 
-1. Identify the city with the highest number of restaurants in the dataset
-2. Calculate the average rating for restaurants in each city. And
-3. Determine the city with the highest average rating.
+1. Determine the percentage of restaurants that offer online delivey. And
+2. Compare the average ratings of restaurants with and without online delivery 
 
 <h1>Tools & Technologies:</h1>
 
@@ -23,8 +22,10 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.</p>
 
 <h1>Results:</h1>
-<p>Finally, I identified the required results of the task2:<br>
-1. The city with the highest number of restaurants cin the dataset is <b>New Delhi (5473 restaurants) </b><br>
+<p>First,I tried to find out the total number of restaurants using "total_resutaurants=len(df)"<br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and the total number of restaurant that offer online delivery is 2451. And tried to find out the percentage of restaurants that offer and do not offer online delivery I used this Python code <br><br>
+  "online_delivery_percenatge=(online_delivery_counts/total no. of restaurants)*100
+  "Finally, I identified the required results of the task2:<br>
+1. The percentage of </b><br>
 2. The average rating for restaurants in each city are:<br><br>
 <table>
     <thead>
@@ -48,10 +49,6 @@ These tools enabled me to effectively extract insights and meaning from the data
       <tr><td>56</td><td>Inner City</td><td>4.900000</td></tr>
     </tbody>
   </table>
-
-[140 rows x 2 columns]<br><br>
-
-3. The City with the highest average rating is Inner City (4.90)<br></p>
 
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
