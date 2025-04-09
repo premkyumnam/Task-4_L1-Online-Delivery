@@ -22,33 +22,10 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.</p>
 
 <h1>Results:</h1>
-<p>First,I tried to find out the total number of restaurants using <br> "total_resutaurants=len(df)"<br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and the total number of restaurant that offer online delivery is 2451. And tried to find out the percentage of restaurants that offer and do not offer online delivery I used this Python code <br><br><br>
+<p>First,I tried to find out the total number of restaurants using <br> "total_resutaurants=len(df)"<br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and <br>the total number of restaurant that offer online delivery is 2451. <br>And tried to find out the percentage of restaurants that offer and do not offer online delivery I used this Python code <br><br><br>
   "online_delivery_percenatge=(online_delivery_counts/total no. of restaurants)*100<br>
   "Finally, I identified the required results of the task2:<br>
 1. The percentage of </b><br>
-2. The average rating for restaurants in each city are:<br><br>
-<table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>City</th>
-        <th>Average Rating</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>43</td><td>Faridabad</td><td>1.866932</td></tr>
-      <tr><td>88</td><td>Noida</td><td>2.036204</td></tr>
-      <tr><td>78</td><td>Mc Millan</td><td>2.400000</td></tr>
-      <tr><td>82</td><td>Montville</td><td>2.400000</td></tr>
-      <tr><td>87</td><td>New Delhi</td><td>2.438845</td></tr>
-      <tr><td>...........</td><td>.........</td><td>........</td></tr>
-      <tr><td>75</td><td>Mandaluyong City</td><td>4.625000</td></tr>
-      <tr><td>94</td><td>Pasig City</td><td>4.633333</td></tr>
-      <tr><td>73</td><td>Makati City</td><td>4.650000</td></tr>
-      <tr><td>106</td><td>Quezon City</td><td>4.800000</td></tr>
-      <tr><td>56</td><td>Inner City</td><td>4.900000</td></tr>
-    </tbody>
-  </table>
 
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
