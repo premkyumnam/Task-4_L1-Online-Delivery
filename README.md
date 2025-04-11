@@ -24,7 +24,9 @@ These tools enabled me to effectively extract insights and meaning from the data
 <h1>Results:</h1>
 <p>First,I tried to find out the total number of restaurants using <br> <em>"total_resutaurants=len(df)"</em><br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and <br>the total number of restaurant that offer online delivery is 2451. <br>And tried to find out the percentage of restaurants that offer and do not offer online delivery I used this Python code <br><br><br>
 
-  <em>"online_delivery_percenatge=(online_delivery_counts/total no. of restaurants)*100</em><br>
+  <p>
+  $$ \text{Online Delivery Percentage} = \left( \frac{\text{Online Delivery Counts}}{\text{Total No. of Restaurants}} \right) \times 100 $$
+</p>
   
 Finally, I identified the required results of the task4(level 1):<br><br>
 
