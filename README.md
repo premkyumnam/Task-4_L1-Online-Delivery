@@ -29,7 +29,20 @@ Finally, I identified the required results of the task2:<br>
 2. The average ratings with online delivery is 3.25 and the average ratings without online delivery is 2.46.
 
 This is the formula I am applying here:
-<math Average Rating= Sum of all ratings/ Number of rated restaurants.
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mi>Average Rating</mi>
+    <mo>=</mo>
+    <mfrac>
+      <mrow>
+        <mi>Sum of all ratings</mi>
+      </mrow>
+      <mrow>
+        <mi>Number of ratings</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
 
 
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
