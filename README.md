@@ -26,11 +26,13 @@ These tools enabled me to effectively extract insights and meaning from the data
 
   <p>
   $$ \text{Online Delivery Percentage} = \left( \frac{\text{Online Delivery Counts}}{\text{Total No. of Restaurants}} \right) \times 100 $$
-</p></br> And the Python code is gieven below:<br>
-<cite>online_delivery_percentage = (online_delivery_counts / total_restaurants) * 100
-avg_rating_online = df[df["Has Online delivery"] == "Yes"]["Aggregate rating"].mean()
-avg_rating_no_online = df[df["Has Online delivery"] == "No"]["Aggregate rating"].mean()
-</cite>
+</p></br> 
+<p>And the Python code is gieven below:<br>
+<em>online_delivery_percentage = (online_delivery_counts / total_restaurants) * 100</em> </br>
+avg_rating_online = df[df["Has Online delivery"] == "Yes"]["Aggregate rating"].mean()</br>
+avg_rating_no_online = df[df["Has Online delivery"] == "No"]["Aggregate rating"].mean()</br>
+</em>
+</p>
 
   
 Finally, I identified the required results of the task4(level 1):<br><br>
