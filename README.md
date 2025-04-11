@@ -22,7 +22,7 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.</p>
 
 <h1>Results:</h1>
-<p>First,I tried to find out the total number of restaurants using <br> <em>"total_resutaurants=len(df)"</em><br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and <br>the total number of restaurant that offer online delivery is 2451. <br>And tried to find out the percentage of restaurants that offer and do not offer online delivery I am applying this formula: <br><br><br>
+<p>First,I tried to find out the total number of restaurants using <br> <em>"total_resutaurants=len(df)"</em><br><br> And then,  I got the total number of restaurants that do not offer online delivery i.e., 7091  and <br>the total number of restaurant that offer online delivery is 2451. <br>And tried to find out the percentage of restaurants that offer and do not offer online delivery.  This is the formula I am applying here: <br><br><br>
 
   <p>
   $$ \text{Online Delivery Percentage} = \left( \frac{\text{Online Delivery Counts}}{\text{Total No. of Restaurants}} \right) \times 100 $$
@@ -41,7 +41,7 @@ Finally, I identified the required results of the 4<sup>th</sup> task(level 1):<
 1. The percentage of restaurants that offer online is 25.69 and do not offer online delivery is 74.31 </b><br>
 2. The average ratings with online delivery is 3.25 and the average ratings without online delivery is 2.46.<br></br>
 
-This is the formula I am applying here:
+This is the formula I am applying Here:
 <p>
   $$ \text{Average Rating} = \frac{\text{Sum of all ratings}}{\text{Number of ratings}} $$
 </p>
