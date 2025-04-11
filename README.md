@@ -4,7 +4,7 @@
   <h1>Task#4_Level#1: ONLINE DELIVERY ANALYSIS</h1>
     
   <h2>Projec Review: </h2>
-In this project, I analyzed a restaurant dataset to identify food trends. The goal of this 4th task (Level 1) is to:
+In this project, I analyzed a restaurant dataset to identify food trends. The goal of this 4<sup>th</sup> task (Level 1) is to:
 
 1. Determine the percentage of restaurants that offer online delivey. And
 2. Compare the average ratings of restaurants with and without online delivery 
@@ -28,14 +28,15 @@ These tools enabled me to effectively extract insights and meaning from the data
   $$ \text{Online Delivery Percentage} = \left( \frac{\text{Online Delivery Counts}}{\text{Total No. of Restaurants}} \right) \times 100 $$
 </p></br> 
 <p>And the Python code is gieven below:<br>
-<em>online_delivery_percentage = (online_delivery_counts / total_restaurants) * 100</em> </br>
-avg_rating_online = df[df["Has Online delivery"] == "Yes"]["Aggregate rating"].mean()</br>
-avg_rating_no_online = df[df["Has Online delivery"] == "No"]["Aggregate rating"].mean()</br>
+<em>
+  1. online_delivery_percentage = (online_delivery_counts / total_restaurants) * 100</em> </br>
+  2. avg_rating_online = df[df["Has Online delivery"] == "Yes"]["Aggregate rating"].mean()</br>
+  3. avg_rating_no_online = df[df["Has Online delivery"] == "No"]["Aggregate rating"].mean()</br>
 </em>
 </p>
 
   
-Finally, I identified the required results of the task4(level 1):<br><br>
+Finally, I identified the required results of the 4<sup>th</sup> task(level 1):<br><br>
 
 1. The percentage of restaurants that offer online is 25.69 and do not offer online delivery is 74.31 </b><br>
 2. The average ratings with online delivery is 3.25 and the average ratings without online delivery is 2.46.<br></br>
