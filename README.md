@@ -49,7 +49,7 @@ This is the formula I am applying Here:
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
 Explore the full project on LinkedIn and GitHub:<br>
-https://www.linkedin.com/in/yumnam-premkumar-singh-6347a8145/<br>
+(https://www.linkedin.com/feed/update/urn:li:activity:7316539760322191360/)<br>
 
 <p>I hope this will be very helpful to new learners and students. <br>
 And I'd love to hear your thoughts and feedback! <br>
